@@ -34,7 +34,7 @@ function MyButton(){
 export default function MyApp() {
   return (
     <div>
-      <h1> This the first project Shon,it's a button.</h1>
+      <h1 class="note"> This the first project Shon,it's a button.</h1>
       <MyButton />
     </div>
   );
